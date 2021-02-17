@@ -1,0 +1,27 @@
+.modal-header{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 1rem;
+  border-bottom: 1px solid #dee2e6;
+  border-top-left-radius:calc(.3rem - 1px );
+  border-top-right-radius: calc(.3rem -1px );
+
+}
+
+.modal-header .close {
+  padding: 1rem;
+  margin:-1rem -1rem -1rem auto;
+  cursor: pointer;
+
+  background-color: transparent;
+  border: 0;
+
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  text-shadow: 0 1px #ffffff;
+  opacity: .5;
+}

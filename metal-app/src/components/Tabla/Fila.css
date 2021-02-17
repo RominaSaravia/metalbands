@@ -1,0 +1,15 @@
+.row{
+  text-align: center;
+  border-bottom: 1px solid #860000;
+}
+
+.actionRow{
+  text-align: center;
+  width: 20%;
+
+}
+
+
+.btn-group {
+  margin: 0.1rem;
+}
