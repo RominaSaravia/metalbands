@@ -1,4 +1,8 @@
-## metalbands
+# SONIDO METALICO #
+
+Desarrollo de la [--API--](https://github.com/RominaSaravia/API-metalbands)
+
+Live Demo: [--DEMO--](https://metalbands-api.herokuapp.com/)
 
 Pagina que muestra todas las bandas y artistas relacionados al género de metal conocidas y no tan conocidas
 
